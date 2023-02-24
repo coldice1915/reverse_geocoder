@@ -1,4 +1,4 @@
-# Reverse Geocoding
+# Reverse Geocoder
 Reverse geocoding app. Interactive or programmatic mode.
 
 
