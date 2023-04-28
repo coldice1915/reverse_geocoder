@@ -65,3 +65,6 @@ False : No file dialog popup and takes CLI positional arguments
 
 ## Logs
 `./reverse_geocode/reverse_geocode.log`
+
+## License
+[MIT](LICENSE)
